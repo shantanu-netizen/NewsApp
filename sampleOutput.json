@@ -7,7 +7,7 @@
         "id": null,
         "name": "BBC News"
       },
-      "author": "https://www.facebook.com/bbcnews",
+      
       "title": "Republican senators join calls for fuller investigation into Minneapolis killing - BBC",
       "description": "Trump says his administration is \"reviewing everything\" after the fatal shooting of Alex Pretti as one Republican governor says \"enough is enough\".",
       "url": "https://www.bbc.com/news/live/c3ve67195gyt",
@@ -20,7 +20,7 @@
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Fred Imbert",
+     
       "title": "Stock futures are little changed as traders get set for a big week of trading: Live updates - CNBC",
       "description": "Stock futures were relatively unchanged on Monday as traders braced for a big week, with key earnings reports and a U.S. monetary policy meeting.",
       "url": "https://www.cnbc.com/2026/01/25/stock-market-today-live-updates.html",
@@ -160,7 +160,7 @@
     },
     {
       "source": {
-        "id": "associated-press",
+        "id": 13,
         "name": "Associated Press"
       },
       "author": "Kevin Freking, Mary Clare Jalonick",
@@ -173,7 +173,7 @@
     },
     {
       "source": {
-        "id": "cbs-news",
+        "id": 14,
         "name": "CBS News"
       },
       "author": "Camilo  Montoya-Galvez, Joe  Walsh",
@@ -186,7 +186,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 15,
         "name": "Seeking Alpha"
       },
       "author": "Kim Khan",
@@ -199,7 +199,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 16,
         "name": "WAMU 88.5"
       },
       "author": "Sarah Y. Kim, Tyrone Turner",
@@ -212,7 +212,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 17,
         "name": "PBS"
       },
       "author": null,
@@ -225,7 +225,7 @@
     },
     {
       "source": {
-        "id": null,
+        "id": 18,
         "name": "WABE 90.1 FM"
       },
       "author": "Patrick Saunders",
